@@ -30,7 +30,7 @@ $ pip2 install bs4
 $ pkg install git
 $ git clone https://github.com/James404-cyber/FASTCRACK.git
 $ cd FASTCRACK
-$ python2 Fast.py
+$ python2 CR4CK.py
 ```
 
 # Single Command 
